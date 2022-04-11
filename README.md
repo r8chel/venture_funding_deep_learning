@@ -21,4 +21,4 @@ Rachel Bates
 
 ---
 ### License
-Creative Collab
+Creative Commons
